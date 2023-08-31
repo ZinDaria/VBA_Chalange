@@ -1,6 +1,6 @@
 This code was created by me with assistance of my tutor Kyle Goode. 
 
-The issue with runins on all sheets partially solved with help of ChatGPT. Also used it for understanding some functions and formulas. 
+The issue with runing on all sheets partially solved with help of ChatGPT. Also used it for understanding some functions and formulas. 
 
 Additional thanks for help to my instructors: Mizanur and Hassan Mehmood.
 
