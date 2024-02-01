@@ -11,6 +11,10 @@ The bonus part allows users to obtain a merged summary of data in a separate she
 ## Dataset Insights:
 
 The dataset includes yearly changes in stock prices and corresponding percentage changes, representing shifts in stock value over the years. Positive and negative changes indicate stock gains and losses. The dataset identifies tickers with the greatest percentage increases and decreases, offering insights into significant shifts. Furthermore, summary statistics like mean, median, standard deviation, and range can be calculated for a broader understanding of data distribution and variability.
+![image](https://github.com/ZinDaria/VBA_Chalange/assets/141193973/8c3bdcad-0b36-46ff-a6f9-d3c735baaa11)
+![image](https://github.com/ZinDaria/VBA_Chalange/assets/141193973/5a645004-5acf-4161-8327-5cf87e8c99b0)
+![image](https://github.com/ZinDaria/VBA_Chalange/assets/141193973/4e606306-27e2-450d-b137-48e9152e2154)
+
 
 ## Note on Stock Analysis:
 
